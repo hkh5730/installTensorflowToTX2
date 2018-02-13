@@ -4,6 +4,7 @@
 
 ### 安装
 $ sudo apt-get install python3-numpy swig python3-dev python3-pip python3-wheel -y
+
 $ pip3 install tensorflow-wheel-file(tensorflow-1.4.1-cp35-cp35m-linux_aarch64.whl)
 
 ### 编译TensorFlow环境
